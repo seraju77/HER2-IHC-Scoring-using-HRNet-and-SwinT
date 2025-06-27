@@ -8,6 +8,7 @@ This repository presents two powerful deep learning models—Swin Transformer an
  ┣ 📄 bci-amend-hrnet-50epo-92.ipynb   # HRNet based model (50 epochs)
  ┣ 📄 README.md                        # Project overview and usage
 
+Data Link: https://paperswithcode.com/dataset/bci
 
 🔍 Dataset
 Source: Custom dataset uploaded to Kaggle environment.
@@ -49,6 +50,12 @@ Data Source: https://zenodo.org/records/15179608
 Swin Transformer shows superior feature extraction with window-based attention, ideal for spatially rich BCI images.
 
 HRNet maintains resolution and balances speed-performance, making it a solid baseline model.
+
+Outputs of the HRNet Model:
+![download (4)](https://github.com/user-attachments/assets/1cd8c3a8-9463-4b13-b66d-7de459cda3b9)
+
+![image (13)](https://github.com/user-attachments/assets/dda11020-fecb-47e6-97f5-9c5631a5e845)
+
 
 
 
