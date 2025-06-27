@@ -43,7 +43,7 @@ Launch either notebook:
 swint-bci-amend-90.ipynb
 bci-amend-hrnet-50epo-92.ipynb
 
-
+Data Source: https://zenodo.org/records/15179608
 
 📌 Conclusion
 Swin Transformer shows superior feature extraction with window-based attention, ideal for spatially rich BCI images.
